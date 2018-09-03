@@ -1,1 +1,1 @@
-# imputated_snps_extraction-nf
+# imputed_snps_extraction-nf
